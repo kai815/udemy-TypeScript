@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kai815/udemy-TypeScript/issues"
   },
-  "homepage": "https://github.com/kai815/udemy-TypeScript#readme"
+  "homepage": "https://github.com/kai815/udemy-TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
